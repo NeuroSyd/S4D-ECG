@@ -1,6 +1,6 @@
 # S4D-ECG: A shallow state-of-the-art model for cardiac arrhythmia classification ([Paper](https://www.medrxiv.org/content/10.1101/2023.06.30.23292069v1))
 
-This work consists of three main code files. The ECG.py file includes the model definition and training process. ECG_predict.py evaluates the model's performance on a test set. Finally, ECG_generalization assesses the model's generalization and robustness using different datasets. 
+This work consists of three main code files. The Model.py file includes the model definition and training process. Evaluation.py evaluates the model's performance on a test set. Finally, Generalization assesses the model's generalization and robustness using different datasets. 
 
 Together, these files provide a comprehensive pipeline for developing, training, evaluating, and testing the S4D-ECG model.
 
